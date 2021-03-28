@@ -5,6 +5,7 @@
     background-color: #dadbd3;
 }
 .app__body{
+    
     display: flex;
     background-color: #ededed;
     margin-top: -50px;
